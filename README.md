@@ -11,6 +11,18 @@ Summary: Object-oriented filesystem paths
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pathlib-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pathlib-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pathlib-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pathlib-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pathlib-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pathlib-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pathlib/badges/version.svg)](https://anaconda.org/conda-forge/pathlib)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pathlib/badges/downloads.svg)](https://anaconda.org/conda-forge/pathlib)
+
 Installing pathlib
 ==================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `pathlib` available on your platfo
 ```
 conda search pathlib --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pathlib-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pathlib-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pathlib-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pathlib-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pathlib-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pathlib-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pathlib/badges/version.svg)](https://anaconda.org/conda-forge/pathlib)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pathlib/badges/downloads.svg)](https://anaconda.org/conda-forge/pathlib)
 
 
 Updating pathlib-feedstock
