@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 6
+  number: 7
   script: {{ PYTHON }} -m pip install . -vv  # [py==27]
   script: {{ PYTHON }} --version             # [py>=34]
 
